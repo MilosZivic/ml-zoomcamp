@@ -10,3 +10,5 @@ Hello world!
 Hi folks!
 
 New line improvement!
+
+new line changed in vs code
