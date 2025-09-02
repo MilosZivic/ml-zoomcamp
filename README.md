@@ -8,3 +8,5 @@ This course is awesome!
 Hello world!
 
 Hi folks!
+
+New line improvement!
